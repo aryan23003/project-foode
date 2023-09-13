@@ -1,2 +1,1 @@
-# project-foode
-KRS
+# KRS-assignment-1
